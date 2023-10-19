@@ -10,9 +10,7 @@
 
 
 
-👨🏻‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack
- <br/>
-📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years
+👨🏻‍💻 Web Developer| former UX designer  |  ES6+  |  MERN Stack
  <br/>
 💻 I am currently learning more about MERN Stack Method and planning to learn NEXT.js
 <br/>
@@ -22,17 +20,13 @@
 ###
 About Me
 
-🌱 Curious, love new challenges to learn and grow from.
+🌱 Curious, love new challenges to learn and grow.
 <br/>
 🔍 Looking to bring my attention to detail to visually appealing web applications.
 <br/>
-🏃🏻 Runner and patient individual with a passion for coding.
+🏃🏻 Piano player for more that 15 years and patient individual with a passion for coding.
 <br/>
-<li> Achievement 5000 kilometers Berlin Night Run 2023 🏅 " in 25 minute "</li>
-<li> Planning for 10000 kilometers 2024 </li>
 
-
-<br/>  
 
 ### Contact
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/sheida-mohassesy/) 
