@@ -21,7 +21,7 @@ About Me
 <br/>
 🔍 Looking to bring my attention to detail to visually appealing web applications.
 <br/>
-🏃🏻 Piano player for more that 15 years and patient individual with a passion for coding.
+🏃🏻 Piano player for more than 15 years and patient individual with a passion for coding.
 <br/>
 
 
