@@ -10,11 +10,8 @@
 
 
 
-👨🏻‍💻 Web Developer| former UX designer  |  ES6+  |  MERN Stack
- <br/>
-💻 I am currently learning more about MERN Stack Method and planning to learn NEXT.js
-<br/>
-<br/> 
+👨🏻‍💻💻 Web Developer| former UX designer  |  ES6+  |  Angular
+ <br/> 
 
 
 ###
