@@ -10,7 +10,7 @@
 
 
 
-👨🏻‍💻💻 Web Developer| former UX designer  |  ES6+  |  React
+👨🏻‍💻💻 Full-stack Web Developer| UX designer  |  ES6+  |  React
  <br/> 
 
 
